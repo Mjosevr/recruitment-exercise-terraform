@@ -2,8 +2,8 @@
 
 provider "aws" {
   region = "${var.aws_region}"
-  access_key = "AKIA2UC3B4WZM36SVDNS"
-  secret_key = "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"
+  access_key = "AKIAXYKJXRIDV3BINGRF"
+  secret_key = "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"
 }
 
 
